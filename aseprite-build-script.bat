@@ -21,7 +21,7 @@ set SKIAZIP=https://github.com/aseprite/skia/releases/download/m102-861e4743af/S
 
 set VISUALSTUDIO="C:\Program Files\Microsoft Visual Studio\2022\Community"
 
-set WINSDK="C:\Program Files (x86)\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.18362.0"
+set WINSDK="C:\Program Files (x86)\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.20348.0"
 
 set ZIP="C:\Program Files\7-Zip"
 :: set ZIP="C:\Program Files (x86)\7-Zip"
